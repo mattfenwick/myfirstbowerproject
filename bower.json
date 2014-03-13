@@ -1,0 +1,32 @@
+{
+  "name": "my_bower_project",
+  "version": "0.0.1",
+  "authors": [
+    "Matt Fenwick <mfenwick100@gmail.com>"
+  ],
+  "description": "whatever",
+  "keywords": [
+    "abc",
+    "def"
+  ],
+  "main": [
+    "src/hi.js",
+    "bye.html"
+  ],
+  "license": "MIT",
+  "homepage": "github.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "deps",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.8.1"
+  },
+  "devDependencies": {
+  }
+}
+
